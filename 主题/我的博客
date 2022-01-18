@@ -1,0 +1,14 @@
+#我第一次搭建的网站博客，成功示例如下
+# **First web**
+
+**Hello web!**
+
+```c
+#inclued<stdio.h>
+int main(){
+    printf("Hello web!");
+    return 0;
+}
+```
+
+![](D:\personal_file_of_zjk\大学\邹俊康的个人网站\第一个网站\网图for_test.jpg)
